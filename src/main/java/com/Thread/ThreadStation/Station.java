@@ -1,4 +1,4 @@
-package com.Thread;
+package com.Thread.ThreadStation;
 
 /**
  * 三个售票窗口同时出售20张票;

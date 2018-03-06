@@ -1,4 +1,4 @@
-package com.Thread;
+package com.Thread.ThreadDemo;
 
 public class MyThread extends Thread {
     private static int num = 0;

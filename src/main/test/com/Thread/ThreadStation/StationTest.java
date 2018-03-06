@@ -1,4 +1,6 @@
-package com.Thread;
+package com.Thread.ThreadStation;
+
+import com.Thread.ThreadStation.Station;
 
 public class StationTest {
     /**

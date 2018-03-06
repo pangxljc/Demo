@@ -1,6 +1,6 @@
-package com.Thread;
+package com.Thread.ThreadDemo;
 
-import com.Thread.MyThread;
+import com.Thread.ThreadDemo.MyThread;
 
 public class MyThreadTest {
     public static void main(String[] args) {
